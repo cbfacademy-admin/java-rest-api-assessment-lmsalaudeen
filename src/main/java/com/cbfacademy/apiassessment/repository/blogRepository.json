@@ -1,0 +1,79 @@
+[ {
+  "id" : 101,
+  "date" : "2020-04-01T22:50:10.511Z",
+  "author" : "Latifah Salaudeen",
+  "title" : "Learning Java",
+  "content" : "Here we are"
+}, {
+  "id" : 200,
+  "date" : "2023-10-08T01:00:00Z",
+  "author" : "Oyedele Alokan",
+  "title" : "Art Review: Paolo Sisiano’s Sprawling Thesis On Self",
+  "content" : "Recently, the walls within new Kokopelli Gallery site in Ikoyi hosted Paolo Sisiano’s art exhibition titled “We are okay, but we are not like before”. These works, a sprawling thesis on self from the perspective of a brooder is a cohesive story told across 24 artworks which were made over 7 months and a lifetime of experiences. Paolo bares it all, limitations of the human mind, guilt, grief, uncertainty. The curator, Ian Audifferen, who is also Paolo’s long time friend wrote that this body of work approaches human emotion from “a dual perspective of retrospecting while introspecting.”"
+}, {
+  "id" : 320,
+  "date" : "2020-03-02T14:27:00Z",
+  "author" : "Mojisola Salaudeen",
+  "title" : "Tunde Leye Immerses Fiction in History; Afonja, the Rise",
+  "content" : "In Afonja, the Rise, Tunde Leye attempts to bring to life important historical events. The book chronicles the lives of select political actors and their roles in the Ọ̀yọ́ empire. The title character Afonja is seen by many as the founding father of Ìlọrin, in Kwara state. The events in the book are also relevant in understanding the social arena in Ìlọrin, where there is a sceptic blend of both Yorùbá and Fulani cultures. "
+}, {
+  "id" : 145,
+  "date" : "2022-08-27T11:02:30.201Z",
+  "author" : "Lanre Apata",
+  "title" : "Non Fiction: For Fathers That Are Present",
+  "content" : "Finding a Fine Balance. Water was her first word. Clenching her lips to palatalize the word’s second sound with her soft voice, she would reach for a bottle of water or whatever seemed like water. But before she said water, she said love. In the love she said with her being I found the completeness that heals and covers void. I found happiness for moments I searched for meaning in the global chaos that announced 2020, and support for the times aspiration and work threw bricks to cause me a stagger."
+}, {
+  "id" : 150,
+  "date" : "2023-08-01T01:12:11.110Z",
+  "author" : "Oyedele Alokan",
+  "title" : "K1 De Ultimate and Bankulli: The Untold Story of Nigeria’s Magic Duo",
+  "content" : "The recent release of Ijebu, by King Wasiu Ayinde Marshall (K1 De Ultimate) produced by Bankulli restarted a conversation about magic duos in the Nigerian music industry. The magic duo concept implies the likelihood of lightning being bottled when such artistes collaborate. When most people will point out Flavor and Masterkraft, Wizkid and Sarz, Asake and Magicstixxx, AQ and BeatsbyJayy, Show Dem Camp and Spax just to mention a few, K1 De Ultimate and Bankulli’s collaborations have long been unheralded. Probably because the genre isn’t afrobeats but Fuji, and the main listener base of this genre are older and aren’t fond of sharing opinions online. Or maybe because nobody ever reads the credits."
+}, {
+  "id" : 16,
+  "date" : "2019-01-01T00:00:00.011Z",
+  "author" : "TheBlotted",
+  "title" : "About",
+  "content" : "blot\n/blɒt/ 1. mark or stain (something)\nTheBlotted delves into any and every topic that is worth staining the sheet. Trailing our pages with experiences that represent the average African Millenial, TheBlotted’s repertoire of content spans music, travel, lifestyle, work, culture, fitness and more. We value unique narratives weaved with beautiful prose to excite our readers to action and make them feel. send pitches and submissions to editor@theblotted.com"
+}, {
+  "id" : 33,
+  "date" : "2019-01-01T00:00:00.011Z",
+  "author" : "TheBlotted",
+  "title" : "Home",
+  "content" : "Homepage"
+}, {
+  "id" : 14,
+  "date" : "2022-08-15T13:00:00Z",
+  "author" : "Samsudeen Alabi",
+  "title" : "Thesis Defense",
+  "content" : "Canadian Corporations, Human Rights Violations, and Third World Extractive Industries: Justiciability in Canada?"
+}, {
+  "id" : 9,
+  "date" : "2019-04-01T23:59:10.511Z",
+  "author" : "Latifah",
+  "title" : "Blog Title 9",
+  "content" : "Sample Text 9"
+}, {
+  "id" : 1500,
+  "date" : "2023-08-01T01:12:11.110Z",
+  "author" : "Oyedele Alokan",
+  "title" : "K1 De Ultimate and Bankulli: The Untold Story of Nigeria’s Magic Duo",
+  "content" : "The recent release of Ijebu, by King Wasiu Ayinde Marshall (K1 De Ultimate) produced by Bankulli restarted a conversation about magic duos in the Nigerian music industry. The magic duo concept implies the likelihood of lightning being bottled when such artistes collaborate. When most people will point out Flavor and Masterkraft, Wizkid and Sarz, Asake and Magicstixxx, AQ and BeatsbyJayy, Show Dem Camp and Spax just to mention a few, K1 De Ultimate and Bankulli’s collaborations have long been unheralded. Probably because the genre isn’t afrobeats but Fuji, and the main listener base of this genre are older and aren’t fond of sharing opinions online. Or maybe because nobody ever reads the credits."
+}, {
+  "id" : 11,
+  "date" : "2021-11-10T23:59:30.701Z",
+  "author" : "Postman",
+  "title" : "Blog Title 11",
+  "content" : "Sample Text 11"
+}, {
+  "id" : 12,
+  "date" : "2022-11-14T23:59:30.933Z",
+  "author" : "Postman",
+  "title" : "Blog Title 12",
+  "content" : "Sample Text 12"
+}, {
+  "id" : 100,
+  "date" : "2023-11-15T23:59:10.444Z",
+  "author" : "Postman",
+  "title" : "Blog Title 100",
+  "content" : "Sample Text 100"
+} ]

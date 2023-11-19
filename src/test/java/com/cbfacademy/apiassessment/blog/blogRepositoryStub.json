@@ -1,0 +1,19 @@
+[ {
+  "id" : 10,
+  "date" : "2023-04-01T23:59:10.511Z",
+  "author" : "Latifah",
+  "title" : "Blog Title 1",
+  "content" : "Sample Text 1"
+}, {
+  "id" : 20,
+  "date" : "2023-05-01T23:59:20.511Z",
+  "author" : "Mojisola",
+  "title" : "Blog Title 2",
+  "content" : "Sample Text 2"
+}, {
+  "id" : 30,
+  "date" : "2023-06-01T23:59:30.511Z",
+  "author" : "Salaudeen",
+  "title" : "Blog Title 3",
+  "content" : "Sample Text 3"
+} ]
